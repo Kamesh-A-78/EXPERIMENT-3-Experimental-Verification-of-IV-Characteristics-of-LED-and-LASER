@@ -57,13 +57,14 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ---
 
 ## 🔌 CONNECTION DIAGRAM
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/14538b7b-90b6-4181-824e-daa5dac1584f" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e2a28469-89f7-400f-83b3-a470ac18a325" />
 
 
 ---
 
 ## 📊 TABULATION
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e2b40bd-5e09-4951-a8e1-56674807cabc" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3cb0f029-8ef5-4cab-9a15-0d0ee27a4684" />
+
 
 
 ### LED Forward Characteristics
@@ -77,7 +78,8 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ---
 
 ## 📈 MODEL GRAPH
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5d9621a1-ed71-42b9-aa28-162cdb190854" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2aa0007b-aa7c-40ed-bf81-fced79cda6ef" />
+
 
 
 
